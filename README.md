@@ -67,3 +67,8 @@ BEGIN TRANSACTION;
 
 INSERT INTO Loans (LoanID, BookID, MemberID, LoanDate, ReturnDate) VALUES (2, 2, 1, '2023-09-20', '2023-10-05');
 COMMIT;
+![author,bookTable](https://github.com/user-attachments/assets/ac1bd180-b4e1-4f86-9a08-4b9dab13e124)
+![Members,loans](https://github.com/user-attachments/assets/3f8d11c4-f408-49b8-a479-4481ec193b3f)
+![DELET ALET](https://github.com/user-attachments/assets/df3dabab-9f0c-4917-ab37-0370f6c7a4c1)
+![gant](https://github.com/user-attachments/assets/1cd78839-78e7-4c3b-accd-b231a10beceb)
+![DELET ALET](https://github.com/user-attachments/assets/30032dc5-2b23-49af-b41a-9d65b69e891f)

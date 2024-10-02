@@ -64,5 +64,6 @@ DCL (Data Control Language):
 GRANT SELECT ON Books TO Public;
 TCL (Transaction Control Language):
 BEGIN TRANSACTION;
+
 INSERT INTO Loans (LoanID, BookID, MemberID, LoanDate, ReturnDate) VALUES (2, 2, 1, '2023-09-20', '2023-10-05');
 COMMIT;
